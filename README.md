@@ -1,4 +1,5 @@
 # CS301-Project Proposal
+[Link to Kaggle Competition](https://www.kaggle.com/c/facial-keypoints-detection)
 ## Problem To Investigate
 * In this project, we will be attempting to design a model that can predict the position of key facial features in humans ( such as eyes, nose, ears etc )
 * Facial Recognition, while effortlessly performed by humans, is an incredibly challenging endeavor for machines. Because this task is easy for humans, it may seem trivial at first but it in actuality the amount of facial features and their variability/uniqueness from face to face is our main obstacle. Facial Recognition can be considered a problem of identifying an individual , or their feaures via images of said individual. Tasks such as head pose estimation for driver assist systems and government identification systems, facial tracking, facial signs for medical diagnosis, amongst others, rely on accurate detection of facial keypoints in their operation.
